@@ -1,0 +1,346 @@
+packages:
+
+  autoconf:
+    version:
+    - 2.69
+    externals:
+    - spec: autoconf@2.69
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/autoconf-2.69-l33qcuddtv36pk3ln4u6h7b545e3xezs
+      buildable: False
+
+  automake:
+    version:
+    - 1.16.3
+    externals:
+    - spec: automake@1.16.3
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/automake-1.16.3-ovjmzojcewrv4nm3frnacvsb2p7lyllc
+      buildable: False
+
+  bison:
+    version:
+    - 3.7.6
+    externals:
+    - spec: bison@3.7.6
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/bison-3.7.6-llhpbtc5d4dlsipfo3gdnwqvwtvcsksv
+      buildable: False
+
+  bzip2:
+    version:
+    - 1.0.8
+    externals:
+    - spec: bzip2@1.0.8
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/bzip2-1.0.8-l7cablykbwihc3dodfslpdapfecyp6ap
+      buildable: False
+
+  cmake:
+    version:
+    - 3.20.3
+    externals:
+    - spec: cmake@3.20.3
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/cmake-3.20.3-otltvtgzqtrjpqqerl3g7lcewdl3zde2
+      buildable: False
+
+  cuda:
+    version:
+    - 11.3.1
+    externals:
+    - spec: cuda@11.3.1
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/cuda-11.3.1-ujhs63k6zmfk53d5uzthvidv5lhcoc25
+      buildable: False
+
+  diffutils:
+    version:
+    - 3.7
+    externals:
+    - spec: diffutils@3.7
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/diffutils-3.7-otkktenrrvcaf37a7zyeytmjuwsalvtr
+      buildable: False
+
+  expat:
+    version:
+    - 2.3.0
+    externals:
+    - spec: expat@2.3.0
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/expat-2.3.0-5bxa3uilnexzrdl2wjezkhbusqofoukj
+      buildable: False
+
+  findutils:
+    version:
+    - 4.8.0
+    externals:
+    - spec: findutils@4.8.0
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/findutils-4.8.0-wvwoiqrup4cxeiyx75ziw22ozxtukg24
+      buildable: False
+
+  flex:
+    version:
+    - 2.6.3
+    externals:
+    - spec: flex@2.6.3
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/flex-2.6.3-s2pbvher4add4pmmd25mnfj4wtpul3ru
+      buildable: False
+
+  gdbm:
+    version:
+    - 1.19
+    externals:
+    - spec: gdbm@1.19
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/gdbm-1.19-xewrv7uqabfsq4gjhizdnhmexgi77zma
+      buildable: False
+
+  gettext:
+    version:
+    - 0.21
+    externals:
+    - spec: gettext@0.21
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/gettext-0.21-dw4kgskm3zatqwxj6eeni6mo2udvrewj
+      buildable: False
+
+  hwloc:
+    version:
+    - 2.4.1
+    externals:
+    - spec: hwloc@2.4.1+cuda
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/hwloc-2.4.1-hk3ali75dgdiqyygee4iflsvwjhmte77
+      buildable: False
+
+  libbsd:
+    version:
+    - 0.11.3
+    externals:
+    - spec: libbsd@0.11.3
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libbsd-0.11.3-6zivdaml3pxyvkf7a5npqdhj7jr5gvll
+      buildable: False
+
+  libedit:
+    version:
+    - 3.1-20210216
+    externals:
+    - spec: libedit@3.1-20210216
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libedit-3.1-20210216-4gar3wyj7tsvjcd5dwiedhbsje2xmajh
+      buildable: False
+
+  libevent:
+    version:
+    - 2.1.12
+    externals:
+    - spec: libevent@2.1.12
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libevent-2.1.12-vliqhxh3qxijloajcvspstgww2gyys7l
+      buildable: False
+
+  libffi:
+    version:
+    - 3.3
+    externals:
+    - spec: libffi@3.3
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libffi-3.3-hyhbnrmaxc5veijr2iyveifkj4azv5dv
+      buildable: False
+
+  libiconv:
+    version:
+    - 1.16
+    externals:
+    - spec: libiconv@1.16
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libiconv-1.16-jearpk4xci4zc7dkrza4fufaqfkq7rfl
+      buildable: False
+
+  libmd:
+    version:
+    - 1.0.3
+    externals:
+    - spec: libmd@1.0.3
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libmd-1.0.3-jbh4lbggrfzy4p6mfaxeiemlgdtjw2gt
+      buildable: False
+
+  libnl:
+    version:
+    - 3.3.0
+    externals:
+    - spec: libnl@3.3.0
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libnl-3.3.0-ttz66sudimuy63cgrpf4d43mebz4v7bj
+      buildable: False
+
+  libpciaccess:
+    version:
+    - 0.16
+    externals:
+    - spec: libpciaccess@0.16
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libpciaccess-0.16-bob4o5m3uku6vtdil5imasprgy775zg7
+      buildable: False
+
+  libsigsegv:
+    version:
+    - 2.13
+    externals:
+    - spec: libsigsegv@2.13
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libsigsegv-2.13-fy2hpaxm5iyswf5pw7s2735bcnctvlq7
+      buildable: False
+
+  libtool:
+    version:
+    - 2.4.6
+    externals:
+    - spec: libtool@2.4.6
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libtool-2.4.6-jdxbjftheiotj6solpomva7dowrhlerl
+      buildable: False
+
+  libxml2:
+    version:
+    - 2.9.10
+    externals:
+    - spec: libxml2@2.9.10
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/libxml2-2.9.10-2r5o72zqbsxyngmuomuqv7l664frrxtp
+      buildable: False
+
+  m4:
+    version:
+    - 1.4.19
+    externals:
+    - spec: m4@1.4.19
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/m4-1.4.19-wq3bm42yg4vdgu5hiykbvhcmcl3fn6po
+      buildable: False
+
+  ncurses:
+    version:
+    - 6.2
+    externals:
+    - spec: ncurses@6.2
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/ncurses-6.2-uba77xwfqaytmx3v5eye43deqq5rqsun
+      buildable: False
+
+  numactl:
+    version:
+    - 2.0.14
+    externals:
+    - spec: numactl@2.0.14
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/numactl-2.0.14-ahg7xfg6caqti66xrblbcmpfcaekxys5
+      buildable: False
+
+  openssh:
+    version:
+    - 8.5p1
+    externals:
+    - spec: openssh@8.5p1
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/openssh-8.5p1-iwz4de3btsipe5m6wsmhi6he7czwuk5x
+      buildable: False
+
+  openssl:
+    version:
+    - 1.1.1k
+    externals:
+    - spec: openssl@1.1.1k
+      prefix: /usr
+      buildable: False
+
+  perl:
+    version:
+    - 5.26.1
+    externals:
+    - spec: perl@5.26.1
+      prefix: /usr
+      buildable: False
+
+  pkgconf:
+    version:
+    - 1.7.4
+    externals:
+    - spec: pkgconf@1.7.4
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/pkgconf-1.7.4-lksdkh5njfeuwp5odpnd3g444sxtw65i
+      buildable: False
+
+  py-docutils:
+    version:
+    - 0.15.2
+    externals:
+    - spec: py-docutils@0.15.2
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/py-docutils-0.15.2-qvbvhfcftysnisntfxn5lsvdm5hm5qar
+      buildable: False
+
+  py-setuptools:
+    version:
+    - 50.3.2
+    externals:
+    - spec: py-setuptools@50.3.2
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/py-setuptools-50.3.2-o2ilfduhakcvwyjpsuyelambib4o6y4w
+      buildable: False
+
+  python:
+    version:
+    - 3.8.10
+    externals:
+    - spec: python@3.8.10
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/python-3.8.10-qfe5pf45m3upfdqxmnhirs4upwzq3fyb
+      buildable: False
+
+  rdma-core:
+    version:
+    - 34.0
+    externals:
+    - spec: rdma-core@34.0
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/rdma-core-34.0-5a4tk63gmtwhtox5afkbkngbkdqyijyu
+      buildable: False
+
+  readline:
+    version:
+    - 8.1
+    externals:
+    - spec: readline@8.1
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/readline-8.1-cp2spc5nyc7yp7ix4vcv67z3c5egnpvq
+      buildable: False
+
+  sqlite:
+    version:
+    - 3.35.5
+    externals:
+    - spec: sqlite@3.35.5
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/sqlite-3.35.5-6icmek2ierjksptwfaz6lcynpbaqfi4l
+      buildable: False
+
+  tar:
+    version:
+    - 1.34
+    externals:
+    - spec: tar@1.34
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/tar-1.34-hoxca47aiicpqdwnpqxsdcjw5nl7zkf6
+      buildable: False
+
+  ucx:
+    version:
+    - 1.10.1
+    externals:
+    - spec: ucx@1.10.1+thread_multiple
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/ucx-1.10.1-576txggxyegbux6c7myvfwlcxmpa4hao
+      buildable: False
+
+  util-linux-uuid:
+    version:
+    - 2.36.2
+    externals:
+    - spec: util-linux-uuid@2.36.2
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/util-linux-uuid-2.36.2-dod5oncbwvw2oz3f6pqtszkrzdc6fkpl
+      buildable: False
+
+  util-macros:
+    version:
+    - 1.19.1
+    externals:
+    - spec: util-macros@1.19.1
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/util-macros-1.19.1-gs6ag7ktdoiirb62t7bcagjw62szrrg2
+      buildable: False
+
+  xz:
+    version:
+    - 5.2.5
+    externals:
+    - spec: xz@5.2.5
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/xz-5.2.5-yigusbm62lqfaeszkxps36u6w6zwoa2x
+      buildable: False
+
+  zlib:
+    version:
+    - 1.2.11
+    externals:
+    - spec: zlib@1.2.11
+      prefix: /gpfs/mira-home/willmore/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/zlib-1.2.11-smoyzzo2qhzpn6mg6rd3l2p7b23enshg
+      buildable: False
+
